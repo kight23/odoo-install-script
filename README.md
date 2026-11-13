@@ -22,7 +22,7 @@ To install Odoo 19.0 on Ubuntu 24.04:
 cd /opt/
 
 # Download the script
-sudo wget https://raw.githubusercontent.com/nsrshishir/odoo-install-script/main/odoo19_ubuntu_24.04.sh
+sudo wget https://raw.githubusercontent.com/kight23/odoo-install-script/main/odoo19_ubuntu_24.04.sh
 
 # Make it executable
 sudo chmod +x odoo19_ubuntu_24.04.sh
